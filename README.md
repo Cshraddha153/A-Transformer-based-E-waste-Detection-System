@@ -43,4 +43,6 @@ Significant improvements in classification accuracy over traditional CNNs.
 Enables faster and more reliable e-waste detection for recycling centers.
 
 ## Research Paper
+Paper pdf:- [Vit for E-waste detection.pdf](https://github.com/user-attachments/files/19603151/Vit.for.E-waste.detection.pdf)
+
 submitted in IEEE Confernce
