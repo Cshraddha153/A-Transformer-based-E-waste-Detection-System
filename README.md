@@ -5,10 +5,9 @@ Our model achieves state-of-the-art performance on three benchmark Kaggle e-wast
 
 ## E-waste Images
 
-![E_38](https://github.com/user-attachments/assets/090efc67-5138-4340-acdf-0c5507064357)   ![E_263](https://github.com/user-attachments/assets/bfdc7fbe-1426-4532-b543-6db571a7bbcd)
+![E_38](https://github.com/user-attachments/assets/090efc67-5138-4340-acdf-0c5507064357)   
 
-
-![E_375](https://github.com/user-attachments/assets/8a9365c7-3417-4f6d-b1e9-e4fa9a303e28)  ![E_534](https://github.com/user-attachments/assets/e03c6198-ed80-4c54-8f7f-fe88974ef31c)
+![E_534](https://github.com/user-attachments/assets/e03c6198-ed80-4c54-8f7f-fe88974ef31c)
 
 
 
